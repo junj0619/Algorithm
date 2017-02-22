@@ -7,3 +7,9 @@ c:\users\jjim.central\documents\visual studio 2015\Projects\SelectionSort\Select
 C:\Users\Jun\Source\Repos\Algorithm\SelectionSort\bin\Debug\SelectionSort.exe.config
 C:\Users\Jun\Source\Repos\Algorithm\SelectionSort\obj\Debug\SelectionSort.exe
 C:\Users\Jun\Source\Repos\Algorithm\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\JJim.CENTRAL\Algorithm\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\JJim.CENTRAL\Algorithm\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\JJim.CENTRAL\Algorithm\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\JJim.CENTRAL\Algorithm\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\JJim.CENTRAL\Algorithm\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\JJim.CENTRAL\Algorithm\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
